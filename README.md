@@ -9,6 +9,8 @@ Storm was born as a wrapper for the Oracle Data Access and later SQL Server clie
 I recently switched to DbFactory in order to give the class an extra level of abstraction and not to be tied up to a specific driver.
 I'm in fact messing around with MySQL.
 
+Even though Storm is still under development I already have successfully used it in production environments.
+
 I promise I will add examples and documentation!
 
 Fed
