@@ -4,7 +4,7 @@ using System.Data.Common;
 using System.Linq;
 using System.Reflection;
 
-namespace StudentOrientation.Classes
+namespace project.Classes
 {
     //##------------------------------
     //## Storm: SimpleTinyORM
